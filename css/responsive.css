@@ -19,4 +19,11 @@
         float: right;
         text-align: right;
     }
+  .short{
+    display: none;
+  }
+  .long{
+    display: inline;
+  }
 }
+  
