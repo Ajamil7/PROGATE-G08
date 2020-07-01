@@ -1,0 +1,17 @@
+@media all and (max-width: 1000px) {
+  
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .footer-list  a{
+    float: none;
+    display: inline;
+    }
+    .footer-list{
+        padding-top: 10px;
+        padding-right: 0px;
+        float: right;
+        text-align: right;
+    }
+}
